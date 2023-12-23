@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ChampionVikash](github.com/ChampionVikash)
 
-- 💬 Ask me about **ReactJS + Redux + HTML/CSS/JS**
+- 💬 Ask me about **React.js + Redux + HTML/CSS/JS + Node.js + Mongodb + Express.js**
 
 - 📫 How to reach me **4355vikashkumar4355@gmail.com**
 
