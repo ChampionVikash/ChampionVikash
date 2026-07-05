@@ -35,14 +35,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca07
 
 <p align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=ChampionVikash&show_icons=true&theme=transparent"/>
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampionVikash&layout=compact&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChampionVikash&theme=transparent"/>
 
 </p>
